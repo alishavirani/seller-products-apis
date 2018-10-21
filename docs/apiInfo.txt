@@ -1,0 +1,10 @@
+Product Apis from seller
+1. Add Product (POST)
+2. Update Product on id (PUT)
+3. Fetch Product on id (GET)
+4. Delete Product (DELETE)
+5. Fetch all Seller's products (GET)
+
+Seller Registration Apis
+1. Registration to portal (POST)
+2. Login (POST)

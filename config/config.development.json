@@ -1,0 +1,13 @@
+{
+    "MongoDB": {
+        "host": "localhost",
+        "port": "27017",
+        "db": "cakeSite",
+        "collections": {
+            "products": "products"
+        }
+    },
+    "server": {
+        "port":":8000"
+    }
+}
